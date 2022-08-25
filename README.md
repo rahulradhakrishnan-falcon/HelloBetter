@@ -2,7 +2,7 @@
 
 
 # Architecture:
-![alt text](https://github.com/rahulradhakrishnan-falcon/HelloBetter/blob/main/HelloBetter.png?raw=true)
+![alt text](https://github.com/rahulradhakrishnan-falcon/HelloBetter/blob/main/HelloBetter.jpg?raw=true)
 
 # Technology Used:
 
